@@ -3,4 +3,4 @@
 
 
 
-# Deceiver: Discourse-Annotated Corpus for Multilingual Fake News Detection
+# DECEIVER: Discourse-Annotated Corpus for Multilingual Fake News Detection
