@@ -1,7 +1,13 @@
-![image](https://user-images.githubusercontent.com/19657817/179399147-600fb155-b4d5-41fb-8c0a-f77e9db35cf8.png)  ![image](https://user-images.githubusercontent.com/19657817/179399320-a69b85a0-520d-4771-8bb9-20f88a256480.png) ![image](https://user-images.githubusercontent.com/19657817/179374488-144e9574-284c-4c10-810a-803f07a0a582.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)     ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c2ecbc54df5719102d068370b3eca9dacea8334/.github/locus_media.png)
 
 
 
+<h2 align="center"> Discourse-Annotated Corpus for Multilingual Fake News Detection </h2>  
 
 
-#Discourse-Annotated Corpus for Multilingual Fake News Detection
+<h2 align="left"> ACKNOWLEDGEMENTS </h2>
+
+<p align="justify"> This work is funded by SINCH Brasil, Fapemig, Fapesp and CNPq. 
+  
+</p>
