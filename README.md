@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center"> Discourse-Annotated Corpus for Multilingual Fake News Detection </h2>  
+<h2 align="center"> Multilingual Discourse-Annotated Corpus for Fake News Detection </h2>  
 
 
 <h2 align="left"> ACKNOWLEDGEMENTS </h2>
