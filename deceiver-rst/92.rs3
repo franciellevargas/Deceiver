@@ -1,0 +1,77 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="32" relname="span">Problema cardíaco tira William Waack do Jornal da Globo.</segment>
+    <segment id="2" parent="1" relname="circumstance"> Apresentador será operado amanhã. </segment>
+    <segment id="3" parent="32" relname="nonvolitional-result"> Waack ficará afastado temporariamente do Jornal da Globo.</segment>
+    <segment id="4" parent="27" relname="circumstance">  Após de submeter a exames de rotina,</segment>
+    <segment id="5" parent="8" relname="purpose"> os médicos determinaram que o jornalista passe por um cateterismo [...]  procedimento utilizado</segment>
+    <segment id="8" parent="27" relname="span"> para diagnosticar ou tratar doenças cardíacas.</segment>
+    <segment id="10" parent="28" relname="circumstance"> Waack já está internado no hospital Sírio Libanês,</segment>
+    <segment id="11" parent="28" relname="span"> onde fará a cirurgia na manhã dessa sexta-feira</segment>
+    <segment id="12" parent="11" relname="parenthetical"> (20).</segment>
+    <segment id="13" parent="6" relname="span"> Carlos Tramontina precisou ser convocado de última hora</segment>
+    <segment id="14" parent="13" relname="nonvolitional-cause"> e comandará o Jornal da Globo nos próximos dias. </segment>
+    <segment id="16" parent="7" relname="elaboration">O Sírio ainda não emitiu nenhuma nota sobre o estado de saúde do âncora global.</segment>
+<group id="27" type="span" parent="31" relname="span" />
+<group id="28" type="span" parent="24" relname="span" />
+<group id="24" type="span" parent="25" relname="circumstance" />
+<group id="31" type="span" parent="30" relname="elaboration" />
+<group id="31" type="span" parent="30" relname="elaboration" />
+<group id="32" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="7" relname="span" />
+<group id="6" type="span" parent="22" relname="nonvolitional-result" />
+<group id="7" type="span" parent="9" relname="span" />
+<group id="9" type="span" />
+  </body>
+</rst>

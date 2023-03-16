@@ -1,0 +1,122 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="83" relname="interjection">Ajuste fiscal? Que nada!</segment>
+    <segment id="3" parent="83" relname="sequence"> Vamos torrar dinheiro público</segment>
+    <segment id="4" parent="83" relname="sequence"> e varrer a sujeira pra debaixo do tapete!. </segment>
+    <segment id="2" parent="18" relname="same-unit"> Com o slogan &quot;Somos todos Brasil&quot;,  a propaganda a ser veiculada</segment>
+    <segment id="15" parent="19" relname="list"> na TV,</segment>
+    <segment id="9" parent="19" relname="list">  no rádio e</segment>
+    <segment id="10" parent="19" relname="list"> na internet, </segment>
+    <segment id="11" parent="18" relname="circumstance"> a partir deste mês,  transmitirá a mensagem de que é possível enfrentar crises e vencer.. </segment>
+    <segment id="17"> O jornal Estadão informou que,</segment>
+    <segment id="20" parent="21" relname="circumstance">  no momento em que a presidente Dilma Rousseff sofre ameaça de impeachment, </segment>
+    <segment id="16" parent="7" relname="preparation"> o Planalto decidiu apostar na divulgação de uma agenda positiva</segment>
+    <segment id="7" parent="21" relname="span"> para mostrar que o governo não está parado.</segment>
+    <segment id="13" parent="28" relname="span"> O governo vai lançar uma campanha</segment>
+    <segment id="24" parent="27" relname="sequence"> que prega a superação das dificuldades e</segment>
+    <segment id="26" parent="27" relname="sequence"> a união do país</segment>
+    <segment id="29" parent="28" relname="circumstance"> ao tratar da Olimpíada de 2016.</segment>
+    <segment id="25" parent="35" relname="span"> Até dezembro serão lançadas nove ações publicitárias, </segment>
+    <segment id="32" parent="25" relname="elaboration"> sendo sete delas com custo estimado de R$ 56 milhões,</segment>
+    <segment id="33" parent="36" relname="span">  incluindo a da Olimpíada </segment>
+    <segment id="34" parent="33" relname="elaboration"> que ficará em R$ 12 milhões.</segment>
+    <segment id="31" parent="37" relname="elaboration"> Duas ainda não foram orçadas.</segment>
+    <segment id="39" parent="49" relname="span"> Os filmes sobre os jogos olímpicos do Rio exploram a ideia</segment>
+    <segment id="48" parent="39" relname="elaboration"> de que o país é capaz de se unir em torno de um projeto,</segment>
+    <segment id="42" parent="50" relname="span">  apesar de suas divergências.</segment>
+    <segment id="41" parent="54" relname="same-unit"> &quot;Mesmo sendo um povo tão diferente,  tão misturado,</segment>
+    <segment id="56" parent="59" relname="list">  com tantas cores, </segment>
+    <segment id="55" parent="59" relname="list"> raças,  </segment>
+    <segment id="51" parent="59" relname="list">pensamentos,  </segment>
+    <segment id="52" parent="59" relname="list">religiões, </segment>
+    <segment id="53" parent="54" relname="evaluation"> somos um povo único,  somos todos brasileiros&quot;,</segment>
+    <segment id="43" parent="57" relname="attribution">  diz um dos comerciais.</segment>
+    <segment id="44" parent="75" relname="attribution"> Em outro trecho,  um locutor afirma que</segment>
+    <segment id="45" parent="65" relname="same-unit"> &quot;todos estamos convocados para defender o Brasil não apenas</segment>
+    <segment id="60" parent="58" relname="list"> nas quadras</segment>
+    <segment id="61" parent="58" relname="list">,  pistas, </segment>
+    <segment id="62" parent="58" relname="list"> piscinas,</segment>
+    <segment id="63" parent="58" relname="list">  estádios (...), </segment>
+    <segment id="46" parent="73" relname="same-unit"> mas</segment>
+    <segment id="72" parent="66" relname="list"> nas ruas e</segment>
+    <segment id="67" parent="66" relname="list"> praças,  </segment>
+    <segment id="68" parent="66" relname="list">táxis, </segment>
+    <segment id="69" parent="66" relname="list"> praias, </segment>
+    <segment id="70" parent="66" relname="list"> bares,</segment>
+    <segment id="71" parent="66" relname="list">  restaurantes,  em todos os lugares&quot;,</segment>
+    <segment id="47" parent="74" relname="justify">  pois &quot;agora somos um só time (...),  um time de 200 milhões&quot;.</segment>
+<group id="19" type="multinuc" parent="18" relname="same-unit" />
+<group id="18" type="multinuc" parent="14" relname="span" />
+<group id="27" type="multinuc" parent="13" relname="elaboration" />
+<group id="28" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="38" relname="span" />
+<group id="35" type="span" parent="37" relname="span" />
+<group id="36" type="span" parent="35" relname="background" />
+<group id="37" type="span" parent="40" relname="span" />
+<group id="38" type="span" />
+<group id="40" type="span" parent="30" relname="background" />
+<group id="49" type="span" parent="42" relname="concession" />
+<group id="50" type="span" />
+<group id="59" type="multinuc" parent="54" relname="same-unit" />
+<group id="54" type="multinuc" parent="57" relname="span" />
+<group id="57" type="span" parent="64" relname="span" />
+<group id="64" type="span" />
+<group id="58" type="multinuc" parent="65" relname="same-unit" />
+<group id="66" type="multinuc" parent="73" relname="same-unit" />
+<group id="73" type="multinuc" parent="74" relname="contrast" />
+<group id="65" type="multinuc" parent="74" relname="contrast" />
+<group id="74" type="multinuc" parent="75" relname="span" />
+<group id="75" type="span" parent="76" relname="span" />
+<group id="76" type="span" />
+<group id="83" type="multinuc" parent="6" relname="span" />
+<group id="6" type="span" />
+<group id="14" type="span" />
+<group id="21" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="21" relname="span" />
+  </body>
+</rst>

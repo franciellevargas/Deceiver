@@ -1,0 +1,100 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="8" relname="span">Vídeo mostra PM de Brasília retirando membros do MTST de local invadido.</segment>
+    <segment id="11" parent="1" relname="evaluation"> O povo aplaudiu!</segment>
+    <segment id="25" parent="2" relname="span">  Vídeo mostra a Polícia Militar retirando integrantes baderneiros do MTST de prédio invadido em Brasília.</segment>
+    <segment id="9" parent="25" relname="evaluation">  NOSSOS PARABÉNS,  POLÍCIA MILITAR!!! PRA CIMA DELES!</segment>
+    <segment id="6" parent="3" relname="preparation"> Pergunta para os integrantes do MTST:</segment>
+    <segment id="3" parent="5" relname="span"> Algum de vocês tem tem interesse em trabalhar?</segment>
+    <segment id="4" parent="5" relname="imperative">  Nem precisa responder!</segment>
+    <segment id="12" parent="14" relname="span"> O PT esteve no poder durante 13 anos e vocês não ganharam casa nem terras?</segment>
+    <segment id="13" parent="12" relname="imperative"> Vão cobrar do Lula e da Dilma.</segment>
+    <segment id="15" parent="17" relname="imperative"> Invadam o sítio em Atibaia e o Triplex no Guarujá,  foram comprados com dinheiro de vocês.</segment>
+    <segment id="16" parent="18" relname="attribution"> vídeo de André Basílio / O Brazil de fora do Brasil.</segment>
+    <segment id="19" parent="26" relname="span"> Saiu no Diário Oficial hoje que o governo vai decidir quem é o dono da propriedade do que você tem.</segment>
+    <segment id="20" parent="19" relname="elaboration"> Chama-se decreto de “participação social”.</segment>
+    <segment id="24" parent="26" relname="circumstance"> Isto foi um decreto assinado hoje.</segment>
+    <segment id="27" parent="29" relname="interpretation"> Foi assim que começou na Venezuela.</segment>
+    <segment id="28" parent="35" relname="span"> Começaram com a censura e depois o confisco de propriedades.</segment>
+    <segment id="31" parent="34" relname="contrast"> Isto ainda tem que passar pelo Congresso,</segment>
+    <segment id="32" parent="34" relname="contrast"> mas como está tudo sem freio no Brasil.</segment>
+    <segment id="33" parent="37" relname="evaluation"> Isto é muito sério, muito grave.</segment>
+    <segment id="36" parent="38" relname="imperative"> Compartilhem ao máximo.</segment>
+    <segment id="39" parent="40" relname="purpose"> Vamos fazer pressão, cobrar os senadores e deputados</segment>
+    <segment id="40" parent="41" relname="span"> para barrarem um absurdo desses, enquanto ainda temos chance.</segment>
+<group id="8" type="span" parent="7" relname="span" />
+<group id="2" type="span" parent="8" relname="elaboration" />
+<group id="5" type="span" parent="10" relname="span" />
+<group id="7" type="span" parent="21" relname="span" />
+<group id="10" type="span" parent="17" relname="span" />
+<group id="14" type="span" parent="10" relname="elaboration" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="22" relname="span" />
+<group id="21" type="span" parent="23" relname="span" />
+<group id="22" type="span" parent="21" relname="elaboration" />
+<group id="23" type="span" parent="44" relname="span" />
+<group id="26" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="37" relname="span" />
+<group id="34" type="multinuc" parent="28" relname="elaboration" />
+<group id="35" type="span" parent="30" relname="elaboration" />
+<group id="37" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="42" relname="span" />
+<group id="41" type="span" parent="42" relname="elaboration" />
+<group id="42" type="span" parent="43" relname="span" />
+<group id="43" type="span" parent="23" relname="elaboration" />
+<group id="44" type="span" />
+  </body>
+</rst>

@@ -1,0 +1,119 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="23" relname="preparation">Jornalista Elisa Robson escreveu:</segment>
+    <segment id="2" parent="23" relname="span"> O FDA, a agência americana de regulamentação de remédios,</segment>
+    <segment id="3" parent="2" relname="elaboration"> aprovou o uso de hidroxicloroquina em todos os pacientes com o Covid-19.</segment>
+    <segment id="5" parent="6" relname="attribution"> O CEO da Novartis anunciou</segment>
+    <segment id="6" parent="25" relname="span"> que já tem em mãos os resultados de pesquisas que comprovam que a hidroxicloroquina mata o vírus.</segment>
+    <segment id="7" parent="26" relname="span"> Tanto que a empresa vai doar 130 milhões de doses.</segment>
+    <segment id="8" parent="27" relname="span"> O custo médio do medicamento no mundo é de US$ 4,65 por mês.</segment>
+    <segment id="9" parent="8" relname="evaluation"> Ou seja, tudo indica que a solução vai chegar bem antes do que muita gente gostaria.</segment>
+    <segment id="10" parent="42" relname="purpose"> Talvez seja, inclusive, decisiva</segment>
+    <segment id="30" parent="42" relname="joint"> para reverter o cenário apocalíptico previsto para as próximas semanas</segment>
+    <segment id="11" parent="42" relname="joint"> e mudar o curso deste rio.</segment>
+    <segment id="12" parent="47" relname="conclusion"> O fato é que, desde o começo, o coronavírus foi usado politicamente.</segment>
+    <segment id="13" parent="32" relname="span"> Portanto, para muitos agentes políticos </segment>
+    <segment id="14" parent="13" relname="parenthetical">(tanto os que militam em partidos, quanto os que estão no comando de instituições como OMS ou nas redações dos jornais)</segment>
+    <segment id="15" parent="24" relname="span"> as notícias acima são, na verdade, um desastre.</segment>
+    <segment id="16" parent="20" relname="span"> Pois por trás disso, para os que querem continuar lucrando,</segment>
+    <segment id="46" parent="21" relname="attribution"> e enfatizo o politicamente, com o pânico e o desespero, o pensamento que predomina é:</segment>
+    <segment id="21" parent="18" relname="span"> &quot;A cura não pode chegar tão rapidamente assim!&quot;.</segment>
+    <segment id="19" parent="59" relname="preparation">Nunca foi pela saúde.</segment>
+    <segment id="22" parent="49" relname="span"> Recentemente, as farmacêuticas Merch Sharp &amp; Shome </segment>
+    <segment id="29" parent="22" relname="parenthetical">(MSD)</segment>
+    <segment id="31" parent="50" relname="same-unit"> e Pfizer lançaram medicações</segment>
+    <segment id="33" parent="51" relname="span"> para o combaite ao vírus chinês.</segment>
+    <segment id="34" parent="52" relname="comparison"> Ao contrário da ivermectina e da hidoxicloroquina, </segment>
+    <segment id="35" parent="36" relname="purpose">não houve resistência na mídia tradicional</segment>
+    <segment id="36" parent="52" relname="span"> para a divulgação desses medicamentos.</segment>
+    <segment id="37" parent="56" relname="joint"> Até o momento, duas agências de saúde estrangerias deram aval para os novos produtos</segment>
+    <segment id="38" parent="54" relname="span"> e a Fundação Osvaldo Cruz </segment>
+    <segment id="39" parent="38" relname="parenthetical">(Fiocruz)</segment>
+    <segment id="40" parent="55" relname="same-unit"> revelou que planeja fabricar oa mesmo um deles.</segment>
+    <segment id="41" parent="58" relname="elaboration"> Fonte: @revistaoeste.</segment>
+<group id="25" type="span" parent="7" relname="nonvolitional-cause" />
+<group id="26" type="span" parent="28" relname="span" />
+<group id="27" type="span" parent="26" relname="elaboration" />
+<group id="28" type="span" parent="43" relname="span" />
+<group id="42" type="multinuc" parent="4" relname="span" />
+<group id="4" type="span" parent="28" relname="elaboration" />
+<group id="43" type="span" parent="17" relname="elaboration" />
+<group id="23" type="span" parent="17" relname="span" />
+<group id="17" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="24" type="span" parent="47" relname="same-unit" />
+<group id="32" type="span" parent="47" relname="same-unit" />
+<group id="47" type="multinuc" parent="48" relname="span" />
+<group id="24" type="span" parent="47" relname="same-unit" />
+<group id="18" type="span" parent="16" relname="evaluation" />
+<group id="20" type="span" parent="15" relname="justify" />
+<group id="48" type="span" parent="44" relname="elaboration" />
+<group id="45" type="span" parent="61" relname="span" />
+<group id="49" type="span" parent="50" relname="same-unit" />
+<group id="50" type="multinuc" parent="33" relname="purpose" />
+<group id="51" type="span" parent="57" relname="span" />
+<group id="52" type="span" parent="53" relname="span" />
+<group id="53" type="span" parent="51" relname="elaboration" />
+<group id="54" type="span" parent="55" relname="same-unit" />
+<group id="55" type="multinuc" parent="56" relname="joint" />
+<group id="56" type="multinuc" parent="57" relname="elaboration" />
+<group id="57" type="span" parent="58" relname="span" />
+<group id="58" type="span" parent="59" relname="span" />
+<group id="59" type="span" parent="60" relname="span" />
+<group id="60" type="span" parent="45" relname="elaboration" />
+<group id="61" type="span" />
+  </body>
+</rst>

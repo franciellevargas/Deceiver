@@ -1,0 +1,79 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="14" relname="span">Todas as pessoas vacinadas morrerão</segment>
+    <segment id="2" parent="1" relname="circumstance"> dentro de 2 anos.</segment>
+    <segment id="3" parent="14" relname="attribution"> Prêmio Nobel Luc Montagnier.</segment>
+    <segment id="4" parent="19" relname="evaluation"> Na entrevista chocante,</segment>
+    <segment id="5" parent="18" relname="attribution"> o maior virologista do mundo afirmou sem rodeios:</segment>
+    <segment id="6" parent="16" relname="joint"> &quot;Não há esperança</segment>
+    <segment id="7" parent="16" relname="joint"> e nenhum tratamento possível</segment>
+    <segment id="8" parent="17" relname="span"> para aqueles que já foram vacinados.</segment>
+    <segment id="9" parent="18" relname="span"> Devemos estar preparados para cremar os corpos&quot;.</segment>
+    <segment id="10" parent="11" relname="volitional-result"> O gênio científico apoiou as afirmações de outros virologistas eminentes</segment>
+    <segment id="11" parent="21" relname="span"> após estudar os ingredientes da vacina.</segment>
+    <segment id="12" parent="22" relname="span"> &quot;Todos eles morrerão devido a intensificação dependente de anticorpos.</segment>
+    <segment id="13" parent="12" relname="elaboration"> Isso é tudo o que pode ser dito.&quot;</segment>
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="24" relname="preparation" />
+<group id="16" type="multinuc" parent="8" relname="purpose" />
+<group id="17" type="span" parent="9" relname="enablement" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="24" relname="span" />
+<group id="21" type="span" parent="22" relname="attribution" />
+<group id="22" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="20" relname="elaboration" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="25" type="span" />
+  </body>
+</rst>

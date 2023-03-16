@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="20" relname="evaluation">Saiba quem são os 44 senadores que votaram a favor de Aécio Neves.</segment>
+    <segment id="3" parent="20" relname="span"> Aécio está livre, leve e solto e poderá retomar o mandato,</segment>
+    <segment id="5" parent="3" relname="elaboration"> além de escapar do recolhimento noturno determinado pela Primeira Turma do STF.</segment>
+    <segment id="7" parent="19" relname="interpretation"> Na verdade, tudo não passou de um grande acordo nacional, com STF, com senado, com tudo.</segment>
+    <segment id="11" parent="10" relname="span"> Foram 44 votos favoráveis ao senador</segment>
+    <segment id="15" parent="11" relname="comparison"> e 26 contrários.</segment>
+    <segment id="9" parent="22" relname="span">Equipe de transição de Lula tem 283 pessoas confirmadas com salários</segment>
+    <segment id="8" parent="9" relname="elaboration"> que podem passar de R$ 17 mil.</segment>
+    <segment id="6" parent="25" relname="span"> O número é mais do que está previsto na lei de transição.</segment>
+    <segment id="4" parent="6" relname="comparison"> Para se ter uma ideia, a equipe de Jair Bolsonaro teve apenas 31 pessoas.</segment>
+    <segment id="14" parent="17" relname="span">Descobri que a minha seção também NÃO existe no site do TSE.</segment>
+    <segment id="13" parent="16" relname="span"> RESUMO DA ÓPERA, tanto no primeiro turno,</segment>
+    <segment id="2" parent="13" relname="comparison"> como no segundo turno, meu voto não existiu.</segment>
+    <segment id="12" parent="17" relname="evaluation"> Tenho comprovantes de votação de enfeite</segment>
+<group id="10" type="span" parent="23" relname="elaboration" />
+<group id="20" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="23" relname="span" />
+<group id="23" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="26" relname="span" />
+<group id="22" type="span" parent="18" relname="span" />
+<group id="16" type="span" parent="14" relname="elaboration" />
+<group id="17" type="span" parent="24" relname="span" />
+<group id="25" type="span" parent="22" relname="elaboration" />
+<group id="18" type="span" parent="21" relname="elaboration" />
+<group id="24" type="span" parent="26" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" />
+  </body>
+</rst>

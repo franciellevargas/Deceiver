@@ -1,0 +1,72 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="span">Após chamar brasileiros de &quot;babacas&quot;, Neymar aparece em festa regada a bebidas e mulheres.</segment>
+    <segment id="13" parent="1" relname="elaboration"> No mesmo dia em que xingou com palavrões os críticos da seleção brasileira ,</segment>
+    <segment id="9" parent="11" relname="span"> o atacante Neymar apareceu em um vídeo nas redes sociais participando de uma festa com os &quot;parças&quot;.</segment>
+    <segment id="6" parent="8" relname="circumstance"> A balada foi filmada em Las Vegas, nos Estados Unidos,</segment>
+    <segment id="8" parent="25" relname="span"> e foi regada com espumante, música eletrônica e muitas mulheres, numa espécie de resort para ricaços.</segment>
+    <segment id="2" parent="10" relname="span">Vagas de estacionamento prioritárias LGBT serão obrigatórias até 2024.</segment>
+    <segment id="4" parent="7" relname="span"> Supermercados e shoppings terão até o próximo ano para se adequar ao novo modelo</segment>
+    <segment id="5" parent="4" relname="elaboration"> que serão adicionadas junto às vagas para idosos e deficientes físicos.</segment>
+<group id="11" type="span" parent="3" relname="span" />
+<group id="25" type="span" parent="11" relname="elaboration" />
+<group id="3" type="span" parent="12" relname="elaboration" />
+<group id="7" type="span" parent="2" relname="elaboration" />
+<group id="10" type="span" parent="14" relname="elaboration" />
+<group id="12" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>
