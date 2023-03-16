@@ -1,0 +1,76 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="23" relname="purpose">Governo Bolsonaro constrói cidade</segment>
+    <segment id="23" parent="11" relname="span"> para 4 mil habitantes no RN</segment>
+    <segment id="24" parent="11" relname="interpretation"> com tudo que tem direito.</segment>
+    <segment id="2" parent="5" relname="circumstance"> As obras das novas habitações e da infraestrutura geral da comunidade Nova Barra de Santana,</segment>
+    <segment id="3" parent="5" relname="span"> onde irão morar 240 famílias</segment>
+    <segment id="4" parent="3" relname="elaboration"> que foram removidas do local atual em virtude da construção da barragem de Oiticica, em Jucurutu,</segment>
+    <segment id="6" parent="28" relname="enablement"> devem ser retomadas nos próximos dias.</segment>
+    <segment id="7" parent="12" relname="evidence"> A Nova Barra de Santana está com percentual de execução de quase 60%.</segment>
+    <segment id="8" parent="41" relname="span"> O local foi escolhido pela própria população</segment>
+    <segment id="9" parent="8" relname="nonvolitional-cause"> após vários diálogos e construções coletivas.</segment>
+    <segment id="10" parent="40" relname="joint"> Além das residências, a localidade conta com</segment>
+    <segment id="18" parent="40" relname="joint"> praças, escola, creche, réplica da igreja católica, lotes para desenvolvimento de atividades industriais e</segment>
+    <segment id="13" parent="40" relname="joint"> infraestrutura com água, energia, saneamento básico, pavimentação e acessibilidade.</segment>
+<group id="11" type="span" parent="38" relname="span" />
+<group id="38" type="span" parent="12" relname="span" />
+<group id="5" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="39" relname="span" />
+<group id="41" type="span" parent="14" relname="elaboration" />
+<group id="40" type="multinuc" parent="15" relname="elaboration" />
+<group id="39" type="span" parent="38" relname="elaboration" />
+<group id="12" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="16" relname="span" />
+<group id="16" type="span" />
+  </body>
+</rst>

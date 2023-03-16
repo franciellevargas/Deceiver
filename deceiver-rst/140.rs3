@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="16" relname="span">Estamos doando todo nosso estoque!</segment>
+    <segment id="2" parent="1" relname="nonvolitional-result"> devido a pandemia não conseguimos vender ele</segment>
+    <segment id="3" parent="5" relname="purpose"> e precisamos renová-lo para renovar é necessário se desfazer dele,</segment>
+    <segment id="5" parent="4" relname="span"> para não jogar fora!</segment>
+    <segment id="6" parent="19" relname="purpose"> estamos doando</segment>
+    <segment id="19" parent="18" relname="span"> para todos aquele que precisam,</segment>
+    <segment id="7" parent="18" relname="evaluation"> o momento não é facil.</segment>
+    <segment id="8" parent="24" relname="joint"> Mas nós da lojas americanas estamos com você nesse momento</segment>
+    <segment id="9" parent="24" relname="joint"> e passaremos juntos,</segment>
+    <segment id="10" parent="25" relname="span"> estamos doando todo nosso estoque</segment>
+    <segment id="11" parent="10" relname="elaboration"> temos eletrodomésticos entre diversas coisas.</segment>
+    <segment id="12" parent="13" relname="sequence"> Para pegar é simples comente ‘OK’</segment>
+    <segment id="14" parent="13" relname="sequence"> após isso entraremos em contato</segment>
+    <segment id="15" parent="26" relname="span"> para retirar em uma das nossas lojas.</segment>
+<group id="16" type="span" parent="17" relname="joint" />
+<group id="4" type="span" parent="17" relname="joint" />
+<group id="17" type="multinuc" parent="21" relname="span" />
+<group id="18" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="22" relname="contrast" />
+<group id="21" type="span" parent="28" relname="span" />
+<group id="22" type="multinuc" parent="23" relname="span" />
+<group id="23" type="span" parent="27" relname="span" />
+<group id="24" type="multinuc" parent="22" relname="contrast" />
+<group id="25" type="span" parent="23" relname="elaboration" />
+<group id="27" type="span" parent="30" relname="span" />
+<group id="30" type="span" parent="17" relname="elaboration" />
+<group id="13" type="multinuc" parent="15" relname="purpose" />
+<group id="26" type="span" parent="21" relname="elaboration" />
+<group id="28" type="span" />
+  </body>
+</rst>
