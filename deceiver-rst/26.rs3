@@ -59,8 +59,8 @@
     <segment id="8" parent="5" relname="span"> O advogado australiano Geoffrey Ronald Robertson é uma estrela no mundo jurídico.</segment>
     <segment id="11" parent="4" relname="span"> Para defender Lula na ONU,</segment>
     <segment id="2" parent="11" relname="purpose"> Robertson já faturou alguns milhares de dólares.</segment>
-    <segment id="3" parent="14" relname="joint"> Sua empresa fatura algo em torno de 120 milh?es de dólares por ano</segment>
-    <segment id="12" parent="14" relname="joint"> e seus honorários advocatícios custam a bagatela de 13 mil dólares por dia.</segment>
+    <segment id="3" parent="14" relname="list"> Sua empresa fatura algo em torno de 120 milh?es de dólares por ano</segment>
+    <segment id="12" parent="14" relname="list"> e seus honorários advocatícios custam a bagatela de 13 mil dólares por dia.</segment>
     <segment id="13" parent="18" relname="circumstance"> Com uma cabeleira impecável e vestindo um terno Armani,</segment>
     <segment id="17" parent="18" relname="span"> o &quot;adevogado&quot; compareceu ao julgamento do recurso de Lula no TRF-4. O dr. Geoffrey,</segment>
     <segment id="15" parent="17" relname="volitional-cause"> após ter recebido mais um saco de dinheiro para acompanhar seu cliente, decidiu dormir durante alguns momentos da sessão.</segment>

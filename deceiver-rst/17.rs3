@@ -50,7 +50,7 @@
     <segment id="1" parent="17" relname="attribution">Veja o trecho que Moro disse a Lula</segment>
     <segment id="17" parent="18" relname="span"> que ele já está condenado.</segment>
     <segment id="2" parent="19" relname="span"> O ex-presidente Luís Inácio Lula da Silva provocou o juiz federal Sergio Moro</segment>
-    <segment id="3" parent="2" relname="volitional-result"> e teve a resposta mais dura que poderia ouvir.</segment>
+    <segment id="3" parent="2" relname="nonvolitional-result"> e teve a resposta mais dura que poderia ouvir.</segment>
     <segment id="4" parent="20" relname="span"> Moro disse a ele em alto e bom som</segment>
     <segment id="5" parent="4" relname="justify"> porque ele já está condenado.</segment>
     <segment id="6" parent="20" relname="elaboration">
@@ -86,7 +86,7 @@ A audiência de ontem foi o último momento do processo.</segment>
 <group id="20" type="span" parent="9" relname="span" />
 <group id="9" type="span" parent="23" relname="span" />
 <group id="21" type="span" parent="22" relname="span" />
-<group id="22" type="span" parent="9" relname="elaboration" />
+<group id="22" type="span" parent="9" relname="circumstance" />
 <group id="23" type="span" parent="53" relname="evidence" />
 <group id="24" type="multinuc" parent="25" relname="span" />
 <group id="25" type="span" parent="55" relname="evidence" />

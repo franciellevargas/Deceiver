@@ -51,13 +51,13 @@
 O Teatro Oficina procurou o Ministério Público Federal</segment>
     <segment id="3" parent="4" relname="parenthetical"> (MPF)</segment>
     <segment id="5" parent="6" relname="same-unit"> nesta terça-feira na tentativa de violar os direitos de Silvio Santos,</segment>
-    <segment id="7" parent="6" relname="elaboration"> que deseja erguer três torres residenciais de cem metros de altura cada uma.</segment>
+    <segment id="7" parent="6" relname="circumstance"> que deseja erguer três torres residenciais de cem metros de altura cada uma.</segment>
     <segment id="8" parent="14" relname="attribution"> As informações são da Veja.</segment>
     <segment id="9" parent="20" relname="span">
 
 O empresário é dono dos terrenos em volta do teatro e executa seu direito de propriedade,</segment>
     <segment id="17" parent="9" relname="nonvolitional-result"> negando-se a trocá-los por outros, oferta feita a ele pelo Ministério do Planejamento.</segment>
-    <segment id="19" parent="37" relname="span">
+    <segment id="19" parent="15" relname="span">
 
 O grupo teatral, que fez sua sede no local há cerca de sessenta anos</segment>
     <segment id="24" parent="27" relname="span"> e ocupa um prédio que leva a assinatura de Lina Bo Bardi</segment>
@@ -81,7 +81,7 @@ Em outubro, Silvio Santos reverteu decisão ainda de 2016 do Condephaat, o órg�
     <segment id="62" parent="61" relname="evaluation"> Com gente que não respeita a propriedade privada, não deve haver diálogo.</segment>
     <segment id="64" parent="70" relname="span"> Que Silvio Santos vá pra briga,</segment>
     <segment id="65" parent="64" relname="justify"> pois tem seus direitos de proprietário.</segment>
-<group id="10" type="span" parent="69" relname="preparation" />
+<group id="10" type="span" parent="13" relname="span" />
 <group id="11" type="span" parent="6" relname="same-unit" />
 <group id="6" type="multinuc" parent="14" relname="span" />
 <group id="14" type="span" parent="12" relname="span" />
@@ -91,18 +91,19 @@ Em outubro, Silvio Santos reverteu decisão ainda de 2016 do Condephaat, o órg�
 <group id="23" type="multinuc" parent="31" relname="joint" />
 <group id="42" type="span" parent="23" relname="same-unit" />
 <group id="43" type="span" parent="31" relname="joint" />
-<group id="31" type="multinuc" parent="19" relname="elaboration" />
-<group id="37" type="span" parent="35" relname="span" />
-<group id="35" type="span" parent="69" relname="span" />
-<group id="40" type="span" parent="37" relname="interpretation" />
-<group id="35" type="span" parent="69" relname="span" />
+<group id="31" type="multinuc" parent="19" relname="circumstance" />
+<group id="40" type="span" parent="16" relname="elaboration" />
 <group id="51" type="span" parent="58" relname="span" />
 <group id="58" type="span" parent="61" relname="span" />
 <group id="70" type="span" parent="60" relname="evaluation" />
 <group id="61" type="span" parent="60" relname="span" />
 <group id="60" type="span" parent="59" relname="span" />
-<group id="59" type="span" parent="35" relname="elaboration" />
-<group id="69" type="span" parent="67" relname="span" />
-<group id="67" type="span" />
+<group id="59" type="span" parent="18" relname="elaboration" />
+<group id="35" type="span" parent="10" relname="elaboration" />
+<group id="13" type="span" parent="16" relname="span" />
+<group id="15" type="span" parent="13" relname="circumstance" />
+<group id="16" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="21" relname="span" />
+<group id="21" type="span" />
   </body>
 </rst>

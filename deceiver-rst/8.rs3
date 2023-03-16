@@ -86,7 +86,7 @@ A prisão é temporária,</segment>
 <group id="42" type="span" parent="37" relname="span" />
 <group id="49" type="span" parent="59" relname="span" />
 <group id="50" type="span" parent="49" relname="evidence" />
-<group id="51" type="span" parent="59" relname="elaboration" />
+<group id="51" type="span" parent="59" relname="circumstance" />
 <group id="59" type="span" parent="60" relname="span" />
 <group id="60" type="span" parent="40" relname="elaboration" />
 <group id="14" type="span" parent="9" relname="elaboration" />

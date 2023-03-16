@@ -42,10 +42,10 @@
   <body>
     <segment id="1" parent="5" relname="span">Reinaldo Azevedo desmascarado pela Polícia Federal.</segment>
     <segment id="2" parent="6" relname="span"> O mais ferrenho crítico do presidenciável Jair Bolsonaro foi desmascarado</segment>
-    <segment id="4" parent="2" relname="elaboration"> em um grampo telefônico em conversas com a irmã de Aécio Neves.</segment>
+    <segment id="4" parent="2" relname="circumstance"> em um grampo telefônico em conversas com a irmã de Aécio Neves.</segment>
     <segment id="3" parent="7" relname="evaluation"> Na conversa eles debochavam </segment>
     <segment id="7" parent="20" relname="span">do juiz Sergio Moro e da operação Lava Jato.</segment>
-    <segment id="8" parent="10" relname="elaboration">
+    <segment id="8" parent="10" relname="evaluation">
 
 Agora ficou clara a intenção do jornalista de fazer defesas tão ferrenhas dos tucanos em suas colunas na Veja e Jovem Pan.</segment>
     <segment id="9" parent="21" relname="evaluation"> Amigo íntimo da família Neves e do alto tucanato</segment>
@@ -79,7 +79,7 @@ Há uma agressão a uma das garantias que tem a profissão</segment>
     <segment id="46" parent="50" relname="span">. A menos que um crime esteja sendo cometido,</segment>
     <segment id="49" parent="51" relname="span"> o sigilo da conversa de um jornalista com sua fonte é um dos pilares do jornalismo,</segment>
     <segment id="48" parent="51" relname="attribution"> escreveu.</segment>
-    <segment id="47" parent="58" relname="volitional-result"> 
+    <segment id="47" parent="58" relname="nonvolitional-result"> 
 As gravações foram anexadas pela Procuradoria-Geral da República ao conjunto de áudios anexados ao inquérito</segment>
     <segment id="58" parent="53" relname="span"> que provocou o afastamento de Aécio e a prisão da irmã.</segment>
     <segment id="55" parent="53" relname="evaluation">

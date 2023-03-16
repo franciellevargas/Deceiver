@@ -60,9 +60,9 @@
     <segment id="13" parent="26" relname="span"> para um debate com o jornalista Marco Antonio Villa sobre a situação do País.</segment>
     <segment id="14" parent="30" relname="span"> Ao invés de debater o professor desfilou argumentos farsantes</segment>
     <segment id="16" parent="14" relname="nonvolitional-result"> que caíram por terra após a divulgação deste vídeo.</segment>
-    <segment id="4" parent="5" relname="volitional-result">Governo lula publica aumento ao Auxílio Reclusão</segment>
+    <segment id="4" parent="5" relname="nonvolitional-result">Governo lula publica aumento ao Auxílio Reclusão</segment>
     <segment id="5" parent="17" relname="span"> e passará a ser de R$ 1.754,18,</segment>
-    <segment id="7" parent="17" relname="elaboration"> maior que o salário mínimo que não teve aumento</segment>
+    <segment id="7" parent="17" relname="comparison"> maior que o salário mínimo que não teve aumento</segment>
 <group id="29" type="span" parent="15" relname="span" />
 <group id="15" type="span" parent="9" relname="span" />
 <group id="9" type="span" parent="22" relname="span" />

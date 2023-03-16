@@ -103,7 +103,7 @@ Vale lembrar que todas estas festas que ele oferece para deputados, senadores e 
 <group id="72" type="span" parent="71" relname="span" />
 <group id="71" type="span" parent="13" relname="elaboration" />
 <group id="67" type="span" parent="54" relname="elaboration" />
-<group id="60" type="span" parent="44" relname="elaboration" />
+<group id="60" type="span" parent="44" relname="circumstance" />
 <group id="30" type="span" parent="40" relname="elaboration" />
 <group id="32" type="span" />
   </body>

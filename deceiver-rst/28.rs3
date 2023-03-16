@@ -61,11 +61,11 @@
     <segment id="16" parent="17" relname="span"> Na mesma cruz que representa a imagem de Cristo,</segment>
     <segment id="40" parent="16" relname="evaluation"> os comunistas tiveram a audácia de escrever:</segment>
     <segment id="18" parent="41" relname="span"> &quot;Bem-aventurado aquele que sofre perseguição&quot;</segment>
-    <segment id="19" parent="42" relname="joint"> Vários cartazes com ofensas ao juiz Sérgio Moro</segment>
-    <segment id="21" parent="42" relname="joint"> e ao sistema judiciário também fizeram parte do ato.</segment>
+    <segment id="19" parent="42" relname="list"> Vários cartazes com ofensas ao juiz Sérgio Moro</segment>
+    <segment id="21" parent="42" relname="list"> e ao sistema judiciário também fizeram parte do ato.</segment>
     <segment id="23" parent="39" relname="evaluation"> Como é que sindicalistas alienados colocam o símbolo de uma religião ao lado da foto de um ateu condenado?</segment>
-    <segment id="24" parent="50" relname="interpretation"> Qual será o próximo passo?</segment>
-    <segment id="25" parent="44" relname="interpretation"> Pedir ao Vaticano que &quot;canonize&quot; Lula?</segment>
+    <segment id="24" parent="50" relname="evaluation"> Qual será o próximo passo?</segment>
+    <segment id="25" parent="44" relname="evaluation"> Pedir ao Vaticano que &quot;canonize&quot; Lula?</segment>
 <group id="3" type="span" parent="7" relname="span" />
 <group id="8" type="span" parent="6" relname="span" />
 <group id="6" type="span" parent="3" relname="elaboration" />

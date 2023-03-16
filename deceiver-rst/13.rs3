@@ -75,7 +75,7 @@ O advogado Alberto Toron, que faz a defesa de Aécio Neves, informou</segment>
 
 Janot argumentou</segment>
     <segment id="37" parent="39" relname="span"> que as gravações e interceptações telefônicas demonstrariam</segment>
-    <segment id="38" parent="37" relname="elaboration"> que Aécio vem adotando, constante e reiteradamente, estratégias de obstrução de investigações da Operação Lava Jato.</segment>
+    <segment id="38" parent="37" relname="circumstance"> que Aécio vem adotando, constante e reiteradamente, estratégias de obstrução de investigações da Operação Lava Jato.</segment>
 <group id="4" type="span" parent="15" relname="span" />
 <group id="16" type="span" parent="14" relname="same-unit" />
 <group id="39" type="span" parent="17" relname="span" />

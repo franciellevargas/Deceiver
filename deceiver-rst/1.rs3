@@ -78,7 +78,7 @@ Sabemos o motivo.</segment>
     <segment id="37" parent="36" relname="elaboration"> partido que já deveria tê-la absorvido.</segment>
     <segment id="38" parent="39" relname="evaluation"> Ao que parece</segment>
     <segment id="39" parent="47" relname="span"> o PT gostava de Kátia somente se ela ficasse entrincheirada dentro do PMDB.</segment>
-    <segment id="40" parent="48" relname="volitional-result">
+    <segment id="40" parent="48" relname="evaluation">
 
 Ou seja, isso é se rebaixar demais.</segment>
     <segment id="41" parent="49" relname="evidence"> Resta a Kátia ficar chorando as pitangas por todos os cantos.</segment>
