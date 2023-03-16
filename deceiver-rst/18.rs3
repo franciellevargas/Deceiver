@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="13" relname="span">Lula está passando mal e pode ser internado.</segment>
+    <segment id="3" parent="5" relname="attribution"> De acordo com relatos dos correligionários mais próximos do ex-presidente Luiz Inácio Lula da Silva,</segment>
+    <segment id="5" parent="12" relname="span"> o petista estaria vivenciando uma crise de ansiedade agravada por picos de hipertensão arterial.</segment>
+    <segment id="8" parent="14" relname="span"> A defesa estuda a possibilidade de pedir o adiamento da audiência</segment>
+    <segment id="9" parent="8" relname="nonvolitional-cause"> em virtude do mal estar de Lula.</segment>
+    <segment id="6" parent="20" relname="span">
+
+Assessores mais próximos ao ex-presidente Lula estão muito preocupados com seu estado de saúde</segment>
+    <segment id="17" parent="18" relname="span"> que ainda dentro do jatinho que o conduziu para Curitiba,</segment>
+    <segment id="16" parent="17" relname="circumstance"> já demonstrava quadro de aceleração do batimento cardíaco, tontura e náusea.</segment>
+    <segment id="24" parent="40" relname="span"> Um exame preliminar diagnosticou</segment>
+    <segment id="25" parent="24" relname="elaboration"> que sua pressão arterial alcançou nível alarmante de 17 x 10.</segment>
+    <segment id="26" parent="40" relname="elaboration"> A audiência com o juiz federal Sergio Moro está agendada para as 14h.</segment>
+    <segment id="27" parent="44" relname="span"> Caso sua crise de ansiedade não seja atenuada por medicamentos</segment>
+    <segment id="29" parent="27" relname="condition"> ele deverá seguir de UTI aérea para o Hospital Sírio Libanês em São Paulo.</segment>
+    <segment id="31" parent="48" relname="span"> O temor de familiares é que</segment>
+    <segment id="45" parent="33" relname="span"> este pico em sua pressão arterial desencadeie um Acidente Vascular Cerebral </segment>
+    <segment id="32" parent="45" relname="parenthetical">(AVC).</segment>
+<group id="14" type="span" parent="13" relname="elaboration" />
+<group id="40" type="span" parent="4" relname="span" />
+<group id="12" type="span" parent="1" relname="elaboration" />
+<group id="13" type="span" parent="11" relname="span" />
+<group id="11" type="span" parent="15" relname="span" />
+<group id="20" type="span" parent="7" relname="span" />
+<group id="44" type="span" parent="2" relname="span" />
+<group id="33" type="span" parent="31" relname="elaboration" />
+<group id="48" type="span" parent="44" relname="elaboration" />
+<group id="2" type="span" parent="7" relname="elaboration" />
+<group id="4" type="span" parent="20" relname="elaboration" />
+<group id="7" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="11" relname="elaboration" />
+<group id="15" type="span" />
+<group id="18" type="span" parent="6" relname="elaboration" />
+  </body>
+</rst>

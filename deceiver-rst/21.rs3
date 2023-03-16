@@ -1,0 +1,84 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="25" relname="evaluation">General Mourão bota pra quebrar e denuncia o Foro de SP.</segment>
+    <segment id="4" parent="26" relname="span">  &quot;Foi instaurada no país uma &quot;diplomacia paralela&quot;,</segment>
+    <segment id="6" parent="4" relname="elaboration"> o Foro de São Paulo, que vocês conhecem muito bem ... &quot;</segment>
+    <segment id="7" parent="26" relname="attribution"> disse o General.</segment>
+    <segment id="8" parent="37" relname="span">  Fundado em 1990 por Lula e Fidel Castro </segment>
+    <segment id="9" parent="8" relname="parenthetical">(por ideia de Lula, segundo ele mesmo declarou),</segment>
+    <segment id="10" parent="38" relname="span"> o Foro de SP é a mais mais vasta organização política</segment>
+    <segment id="11" parent="10" relname="elaboration"> que já existiu na América Latina e, sem dúvida, uma das maiores do mundo.</segment>
+    <segment id="13" parent="12" relname="elaboration"> Dele participam todos os governantes esquerdistas do continente.</segment>
+    <segment id="14" parent="40" relname="span"> Mas não é uma organização de esquerda</segment>
+    <segment id="15" parent="14" relname="comparison"> como outra qualquer.</segment>
+    <segment id="16" parent="47" relname="list"> Ele reúne mais de uma centena de partidos políticos</segment>
+    <segment id="43" parent="47" relname="list"> e várias organizações criminosas ligadas ao narcotráfico</segment>
+    <segment id="48" parent="21" relname="span"> e à indústria dos sequestros, como as Farc e o MIR chileno</segment>
+    <segment id="22" parent="48" relname="parenthetical"> [...]</segment>
+    <segment id="23" parent="47" relname="elaboration"> todas empenhadas numa articulação estratégica comum e na busca de vantagens mútuas.</segment>
+<group id="40" type="span" parent="24" relname="span" />
+<group id="26" type="span" parent="25" relname="span" />
+<group id="25" type="span" parent="30" relname="span" />
+<group id="37" type="span" parent="12" relname="span" />
+<group id="38" type="span" parent="37" relname="elaboration" />
+<group id="12" type="span" parent="31" relname="span" />
+<group id="31" type="span" parent="30" relname="elaboration" />
+<group id="30" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="20" relname="span" />
+<group id="21" type="span" parent="47" relname="list" />
+<group id="47" type="multinuc" parent="46" relname="span" />
+<group id="46" type="span" parent="40" relname="elaboration" />
+<group id="24" type="span" parent="35" relname="elaboration" />
+<group id="20" type="span" />
+  </body>
+</rst>

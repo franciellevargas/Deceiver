@@ -1,0 +1,86 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="45" relname="span">Desembargador pede 12 anos de prisão para Lula.</segment>
+    <segment id="2" parent="10" relname="span"> O relator e desembargador da 8a Turma Criminal do Tribunal Regional Federal da 4a Região </segment>
+    <segment id="5" parent="2" relname="parenthetical">(TRF4),</segment>
+    <segment id="6" parent="8" relname="same-unit"> João Pedro Gebran Neto , um dos responsáveis por julgar Lula, decidiu</segment>
+    <segment id="9" parent="7" relname="span"> aumentar a pena do ex-presidente e fixá-la em 12 anos e 1 mês de prisão.</segment>
+    <segment id="11" parent="46" relname="span"> Na primeira instância, Sérgio Moro havia condenado Lula a 9 anos e 6 meses de prisão.</segment>
+    <segment id="13" parent="11" relname="elaboration"> João Pedro Gebran Neto considerou a culpa de Lula &quot;extremamente relevante&quot; na qualidade de ex-presidente.</segment>
+    <segment id="15" parent="38" relname="span"> &quot;A prática criminosa de Lula atingiu a estabilidade democrática</segment>
+    <segment id="16" parent="15" relname="nonvolitional-cause"> em razão do sistema eleitoral severamente comprometido.</segment>
+    <segment id="17" parent="38" relname="elaboration"> Houve uma deturpação do processo político.&quot;</segment>
+    <segment id="18" parent="39" relname="attribution"> disse o relator.</segment>
+    <segment id="19" parent="42" relname="span"> A pena foi estabelecida em 8 anos e 4 meses de reclusão </segment>
+    <segment id="20" parent="19" relname="parenthetical">(crime de corrupção)</segment>
+    <segment id="21" parent="43" relname="span"> e 3 anos e 9 meses</segment>
+    <segment id="22" parent="21" relname="parenthetical"> (pelo crime de lavagem de dinheiro).</segment>
+    <segment id="23" parent="44" relname="elaboration"> Faltam ainda os votos dos desembargadores Leandro Paulsen e Victor dos Santos Laus.</segment>
+<group id="38" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="40" relname="span" />
+<group id="42" type="span" parent="44" relname="same-unit" />
+<group id="43" type="span" parent="44" relname="same-unit" />
+<group id="44" type="multinuc" parent="25" relname="span" />
+<group id="10" type="span" parent="8" relname="same-unit" />
+<group id="8" type="multinuc" parent="9" relname="attribution" />
+<group id="7" type="span" parent="1" relname="elaboration" />
+<group id="40" type="span" parent="24" relname="span" />
+<group id="25" type="span" parent="40" relname="elaboration" />
+<group id="24" type="span" parent="37" relname="elaboration" />
+<group id="46" type="span" parent="45" relname="elaboration" />
+<group id="45" type="span" parent="37" relname="span" />
+<group id="37" type="span" parent="41" relname="span" />
+<group id="41" type="span" />
+  </body>
+</rst>

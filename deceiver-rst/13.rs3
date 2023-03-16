@@ -1,0 +1,100 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="localization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">URGENTE:</segment>
+    <segment id="2" parent="4" relname="span"> Janot pede prisão de Aécio Neves.</segment>
+    <segment id="3" parent="5" relname="span"> O procurador-geral da República, Rodrigo Janot, pediu nesta segunda-feira</segment>
+    <segment id="7" parent="3" relname="parenthetical"> (22)</segment>
+    <segment id="8" parent="6" relname="span"> ao Supremo Tribunal Federal </segment>
+    <segment id="9" parent="8" relname="parenthetical">(STF)</segment>
+    <segment id="10" parent="16" relname="span"> a prisão do senador afastado Aécio Neves</segment>
+    <segment id="11" parent="10" relname="parenthetical"> (PSDB-MG).</segment>
+    <segment id="12" parent="25" relname="attribution">
+
+O advogado Alberto Toron, que faz a defesa de Aécio Neves, informou</segment>
+    <segment id="19" parent="20" relname="purpose"> que aguarda ser intimado sobre o pedido da PGR</segment>
+    <segment id="20" parent="24" relname="span"> para apresentar suas contrarrazões, oportunidade em que demonstrará a impropriedade do pedido.</segment>
+    <segment id="21" parent="28" relname="purpose"> Também afirmou que ingressará no STF com um pedido</segment>
+    <segment id="27" parent="28" relname="span"> para revogar o afastamento do senador do mandato</segment>
+    <segment id="22" parent="27" relname="evidence"> por falta de base legal e constitucional.</segment>
+    <segment id="23" parent="30" relname="interpretation"> O órgão entende que Aécio foi pego em flagrante</segment>
+    <segment id="31" parent="30" relname="span"> por crime inafiançável na tentativa de obstruir as investigações da Operação Lava Jato,</segment>
+    <segment id="32" parent="41" relname="span"> com base nas gravações realizadas pelos donos da JBS,</segment>
+    <segment id="40" parent="32" relname="elaboration"> entregues na delação premiada da empresa.</segment>
+    <segment id="33" parent="39" relname="attribution">
+
+Janot argumentou</segment>
+    <segment id="37" parent="39" relname="span"> que as gravações e interceptações telefônicas demonstrariam</segment>
+    <segment id="38" parent="37" relname="elaboration"> que Aécio vem adotando, constante e reiteradamente, estratégias de obstrução de investigações da Operação Lava Jato.</segment>
+<group id="4" type="span" parent="15" relname="span" />
+<group id="16" type="span" parent="14" relname="same-unit" />
+<group id="39" type="span" parent="17" relname="span" />
+<group id="5" type="span" parent="13" relname="same-unit" />
+<group id="6" type="span" parent="13" relname="same-unit" />
+<group id="13" type="multinuc" parent="14" relname="same-unit" />
+<group id="14" type="multinuc" parent="4" relname="elaboration" />
+<group id="15" type="span" parent="36" relname="span" />
+<group id="24" type="span" parent="25" relname="span" />
+<group id="28" type="span" parent="29" relname="span" />
+<group id="29" type="span" parent="24" relname="elaboration" />
+<group id="25" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="35" relname="span" />
+<group id="30" type="span" parent="34" relname="span" />
+<group id="34" type="span" parent="26" relname="span" />
+<group id="17" type="span" parent="34" relname="elaboration" />
+<group id="26" type="span" parent="18" relname="elaboration" />
+<group id="35" type="span" parent="15" relname="elaboration" />
+<group id="36" type="span" />
+<group id="41" type="span" parent="31" relname="evidence" />
+  </body>
+</rst>

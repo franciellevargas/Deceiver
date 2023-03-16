@@ -1,0 +1,85 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="4" relname="attribution">No Recife, petistas comparam Lula a Jesus Cristo:</segment>
+    <segment id="4" parent="3" relname="span"> &quot;Bem-aventurado aquele que sofre perseguição&quot;.</segment>
+    <segment id="5" parent="8" relname="span"> Sindicalistas do Recife/PE fizeram uma manifestação a favor de Lula na manhã de hoje </segment>
+    <segment id="9" parent="5" relname="parenthetical">[...]</segment>
+    <segment id="10" parent="8" relname="evaluation"> até aí nada de mais.</segment>
+    <segment id="12" parent="22" relname="span"> Acontece que um fato</segment>
+    <segment id="13" parent="12" relname="elaboration"> que chamou atenção de quem passava pelo local.</segment>
+    <segment id="15" parent="22" relname="elaboration"> Uma CRUZ com a imagem de Lula foi colocada em frente à Câmara Municipal da cidade.</segment>
+    <segment id="16" parent="17" relname="span"> Na mesma cruz que representa a imagem de Cristo,</segment>
+    <segment id="40" parent="16" relname="evaluation"> os comunistas tiveram a audácia de escrever:</segment>
+    <segment id="18" parent="41" relname="span"> &quot;Bem-aventurado aquele que sofre perseguição&quot;</segment>
+    <segment id="19" parent="42" relname="joint"> Vários cartazes com ofensas ao juiz Sérgio Moro</segment>
+    <segment id="21" parent="42" relname="joint"> e ao sistema judiciário também fizeram parte do ato.</segment>
+    <segment id="23" parent="39" relname="evaluation"> Como é que sindicalistas alienados colocam o símbolo de uma religião ao lado da foto de um ateu condenado?</segment>
+    <segment id="24" parent="50" relname="interpretation"> Qual será o próximo passo?</segment>
+    <segment id="25" parent="44" relname="interpretation"> Pedir ao Vaticano que &quot;canonize&quot; Lula?</segment>
+<group id="3" type="span" parent="7" relname="span" />
+<group id="8" type="span" parent="6" relname="span" />
+<group id="6" type="span" parent="3" relname="elaboration" />
+<group id="7" type="span" parent="50" relname="span" />
+<group id="22" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="39" relname="span" />
+<group id="17" type="span" parent="18" relname="attribution" />
+<group id="41" type="span" parent="43" relname="span" />
+<group id="42" type="multinuc" parent="41" relname="elaboration" />
+<group id="43" type="span" parent="20" relname="elaboration" />
+<group id="39" type="span" parent="45" relname="span" />
+<group id="45" type="span" parent="7" relname="elaboration" />
+<group id="50" type="span" parent="44" relname="span" />
+<group id="44" type="span" parent="14" relname="span" />
+<group id="14" type="span" />
+  </body>
+</rst>

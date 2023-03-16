@@ -1,0 +1,80 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="15" relname="evaluation">Caiu a máscara do Prof. Villa da Jovem Pan.</segment>
+    <segment id="2" parent="3" relname="attribution"> Vídeo mostra que</segment>
+    <segment id="3" parent="29" relname="span"> o Professor Marco Antonio Villa, comentarista da Jovem Pan, é um verdadeiro farsante.</segment>
+    <segment id="6" parent="29" relname="evaluation"> O debate com Bolsonaro foi uma farsa que precisa ser revelada. </segment>
+    <segment id="8" parent="25" relname="span">O estúdio do Jornal da Manhã recebeu, nesta terça-feira</segment>
+    <segment id="10" parent="8" relname="parenthetical"> (23),</segment>
+    <segment id="11" parent="24" relname="span"> o deputado Jair Bolsonaro</segment>
+    <segment id="12" parent="11" relname="parenthetical"> (PSC-RJ)</segment>
+    <segment id="13" parent="26" relname="span"> para um debate com o jornalista Marco Antonio Villa sobre a situação do País.</segment>
+    <segment id="14" parent="30" relname="span"> Ao invés de debater o professor desfilou argumentos farsantes</segment>
+    <segment id="16" parent="14" relname="nonvolitional-result"> que caíram por terra após a divulgação deste vídeo.</segment>
+    <segment id="4" parent="5" relname="volitional-result">Governo lula publica aumento ao Auxílio Reclusão</segment>
+    <segment id="5" parent="17" relname="span"> e passará a ser de R$ 1.754,18,</segment>
+    <segment id="7" parent="17" relname="elaboration"> maior que o salário mínimo que não teve aumento</segment>
+<group id="29" type="span" parent="15" relname="span" />
+<group id="15" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="22" relname="span" />
+<group id="24" type="span" parent="23" relname="same-unit" />
+<group id="25" type="span" parent="23" relname="same-unit" />
+<group id="23" type="multinuc" parent="13" relname="purpose" />
+<group id="26" type="span" parent="9" relname="elaboration" />
+<group id="22" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="22" relname="elaboration" />
+<group id="31" type="span" parent="19" relname="span" />
+<group id="17" type="span" parent="18" relname="span" />
+<group id="18" type="span" parent="31" relname="elaboration" />
+<group id="19" type="span" />
+  </body>
+</rst>

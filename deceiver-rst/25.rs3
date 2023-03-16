@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="21" relname="span">Deputados do PT pedirão renúncia coletiva se Lula for preso?</segment>
+    <segment id="9" parent="8" relname="contrast"> Ainda não sabemos se a notícia é verdadeira,</segment>
+    <segment id="6" parent="8" relname="contrast"> mas bem que poderia ser, não é mesmo?</segment>
+    <segment id="7" parent="22" relname="attribution"> Circula pelas redes sociais um texto afirmando</segment>
+    <segment id="11" parent="22" relname="span"> que os deputados do PT farão uma renúncia coletiva</segment>
+    <segment id="25" parent="11" relname="condition"> caso Lula seja preso.</segment>
+    <segment id="26" parent="18" relname="attribution"> A notícia diz o seguinte:</segment>
+    <segment id="3" parent="10" relname="joint"> &quot;Infelizmente, a politica parece seguir rumos contrários àquilo que historicamente foi seu mister</segment>
+    <segment id="4" parent="10" relname="joint"> e alia-se a posições que propõem mais uma triste ruptura democrática em nosso país.</segment>
+    <segment id="5" parent="10" relname="elaboration"> Deputados que somos, manteremos nosso juramento de defender o Estado Democrático de Direito.</segment>
+    <segment id="14" parent="17" relname="span"> Os membros do PT pedirão renúncia coletiva caso o ex-Presidente Lula seja preso,</segment>
+    <segment id="15" parent="14" relname="nonvolitional-result"> conforme decisão tomada após o posicionamento das comissões&quot;.</segment>
+    <segment id="16" parent="13" relname="evaluation"> Quem sabe o PSDB e o PMDB aproveitam esse embalo</segment>
+<group id="8" type="multinuc" parent="1" relname="evaluation" />
+<group id="22" type="span" parent="2" relname="span" />
+<group id="2" type="span" parent="13" relname="span" />
+<group id="10" type="multinuc" parent="12" relname="span" />
+<group id="12" type="span" parent="18" relname="span" />
+<group id="17" type="span" parent="12" relname="elaboration" />
+<group id="18" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="2" relname="elaboration" />
+<group id="13" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="23" relname="span" />
+<group id="21" type="span" parent="20" relname="preparation" />
+<group id="23" type="span" />
+  </body>
+</rst>

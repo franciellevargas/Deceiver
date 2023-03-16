@@ -1,0 +1,142 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="29" relname="joint">ONG que denunciou desnutrição de Yanomami desviou R$ 33 milhões</segment>
+    <segment id="23" parent="29" relname="joint"> e tem fortes vínculos com Lula e PT.</segment>
+    <segment id="28" parent="29" relname="elaboration"> Idosa indígena apresentada pela organização era venezuelana.</segment>
+    <segment id="25" parent="32" relname="attribution"> Pelas redes sociais, o jornalista Oswaldo Eustáquio, revelou hoje,</segment>
+    <segment id="26" parent="32" relname="span"> que dados públicos do Tribunal de Contas da União revelam </segment>
+    <segment id="31" parent="81" relname="span">que a Associação URIHI YANOMAMI, inscrita no CNPJ: 03.272.540/0001-12,</segment>
+    <segment id="80" parent="31" relname="background"> desviou R$ 33 milhões dos cofres públicos em atos de corrupção na saúde indígena no estado de Roraima.</segment>
+    <segment id="27" parent="38" relname="span"> O recurso que deveria ser aplicado para alimentação, sanitarismo e saúde dos povos indígenas</segment>
+    <segment id="34" parent="37" relname="span"> serviu de enriquecimento ilícito para líderes </segment>
+    <segment id="36" parent="34" relname="elaboration">que vivem distante da aldeia e usam e subjugam seus parentes em situação de miseribilidade.</segment>
+    <segment id="35" parent="43" relname="span"> A ONG é comandada por aliados do Partido dos Trabalhadores e da esquerda no Brasil</segment>
+    <segment id="41" parent="35" relname="nonvolitional-cause"> e responde a inúmeros processos por mau uso do dinheiro público.</segment>
+    <segment id="42" parent="48" relname="background"> 
+
+Gordinho, de sombrancelha feita, unha pintada e uma conta bancária recheada,</segment>
+    <segment id="47" parent="48" relname="span"> Júnior Hekurari Yanomami, presidente da organização,</segment>
+    <segment id="44" parent="47" relname="elaboration"> que hoje está com o CNPJ inválido devivo aos desvios de recursos públicos,</segment>
+    <segment id="45" parent="49" relname="circumstance"> exibe fotos em cabines de aviões e nas praias do Rio de Janeira.</segment>
+    <segment id="46" parent="58" relname="span"> Na noite carioca, usa camisa Polo Armani,</segment>
+    <segment id="52" parent="59" relname="span"> conforme fotos publicadas em seu próprio Instagram,</segment>
+    <segment id="53" parent="57" relname="span"> em flagrante contraste com a foto da indígena yanomami venezuelana apresentada por sua ONG </segment>
+    <segment id="56" parent="53" relname="means">como um presente ao parceiro recém eleito presidente da República no Brasil, Luis Inácio Lula da Silva.</segment>
+    <segment id="54" parent="58" relname="elaboration"> Em abril, Júnior e Lula aparecem juntos em um evento.</segment>
+    <segment id="55" parent="65" relname="span">
+
+A situação da idosa yanomami venezuelana,</segment>
+    <segment id="61" parent="55" relname="evaluation"> que neste teatro da esquerda, nem sequer um nome brasileiro ganhou,</segment>
+    <segment id="62" parent="65" relname="justify"> pois na grande imprensa é tratada apenas como “idosa yanomami”,</segment>
+    <segment id="66" parent="70" relname="span"> serviu apenas como uma cortina de fumaça para atribuir ao ex-presidente Jair Messias Bolsonaro um rótulo de genocida,</segment>
+    <segment id="63" parent="71" relname="span"> que na verdade pertence aos acusadores,</segment>
+    <segment id="67" parent="72" relname="span"> que são os verdadeiros responsáveis por essa tragédia humanitária importada da Venezuela em</segment>
+    <segment id="68" parent="67" relname="elaboration"> que este núcleo de jornalismo investigativo comandado pelo jornalista Oswaldo Eustáquio irá revelar nos próximos dias.</segment>
+    <segment id="64" parent="75" relname="interpretation"> A trama, envolve a perseguição do Exército de Maduro contra estes povos tradicionais.</segment>
+    <segment id="24" parent="22" relname="preparation">Policia Militar do Rio de Janeiro – Aviso.</segment>
+    <segment id="2" parent="19" relname="span"> Estamos atravessando tempos difíceis na cidade do Rio de Janeiro.</segment>
+    <segment id="3" parent="2" relname="imperative"> Esteja ciente.</segment>
+    <segment id="4" parent="19" relname="imperative"> Proteja-se e cuide de seus familiares !</segment>
+    <segment id="5" parent="6" relname="preparation"> A PMERJ orienta:</segment>
+    <segment id="6" parent="18" relname="span"> Acreditamos que o momento atual é de extrema preocupação.</segment>
+    <segment id="7" parent="16" relname="span"> Estamos em tempos difíceis</segment>
+    <segment id="8" parent="7" relname="nonvolitional-result"> e aí vão algumas medidas cautelares:</segment>
+    <segment id="9" parent="10" relname="list"> &quot;evite bares noturnos e lanchonetes em locais abertos;</segment>
+    <segment id="11" parent="10" relname="list"> Evite sair de casa após dez da noite.</segment>
+    <segment id="12" parent="10" relname="list"> Sempre suspeitar de tudo e de todos.</segment>
+    <segment id="13" parent="10" relname="list"> Ter uma postura defensiva é estar sempre atento.&quot;</segment>
+    <segment id="14" parent="10" relname="imperative"> Oriente seus familiares, seus amigos, e se quiser compartilhe.</segment>
+<group id="10" type="multinuc" parent="15" relname="span" />
+<group id="15" type="span" parent="17" relname="span" />
+<group id="16" type="span" parent="15" relname="preparation" />
+<group id="17" type="span" parent="21" relname="elaboration" />
+<group id="18" type="span" parent="20" relname="elaboration" />
+<group id="19" type="span" parent="20" relname="span" />
+<group id="20" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="77" relname="span" />
+<group id="29" type="multinuc" parent="30" relname="span" />
+<group id="30" type="span" parent="40" relname="span" />
+<group id="32" type="span" parent="33" relname="span" />
+<group id="33" type="span" parent="39" relname="span" />
+<group id="37" type="span" parent="27" relname="nonvolitional-result" />
+<group id="38" type="span" parent="33" relname="elaboration" />
+<group id="39" type="span" parent="30" relname="elaboration" />
+<group id="40" type="span" parent="78" relname="span" />
+<group id="43" type="span" parent="51" relname="span" />
+<group id="48" type="span" parent="49" relname="span" />
+<group id="49" type="span" parent="50" relname="span" />
+<group id="50" type="span" parent="43" relname="elaboration" />
+<group id="51" type="span" parent="75" relname="span" />
+<group id="57" type="span" parent="52" relname="interpretation" />
+<group id="58" type="span" parent="60" relname="span" />
+<group id="59" type="span" parent="46" relname="evidence" />
+<group id="60" type="span" parent="74" relname="span" />
+<group id="65" type="span" parent="69" relname="span" />
+<group id="69" type="span" parent="70" relname="purpose" />
+<group id="70" type="span" parent="73" relname="span" />
+<group id="71" type="span" parent="66" relname="elaboration" />
+<group id="72" type="span" parent="63" relname="evaluation" />
+<group id="73" type="span" parent="60" relname="elaboration" />
+<group id="74" type="span" parent="51" relname="elaboration" />
+<group id="75" type="span" parent="76" relname="span" />
+<group id="76" type="span" parent="40" relname="elaboration" />
+<group id="77" type="span" parent="78" relname="elaboration" />
+<group id="78" type="span" parent="79" relname="span" />
+<group id="79" type="span" />
+<group id="81" type="span" parent="26" relname="elaboration" />
+  </body>
+</rst>

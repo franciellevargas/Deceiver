@@ -1,0 +1,74 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+      <rel name="alternative" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="12" relname="span">Vídeo que mostra promotor prendendo prefeito alcança 20 milhões de visualizações nas redes sociais. </segment>
+    <segment id="25" parent="26" relname="concession"> Este episódio ocorreu em 2012,</segment>
+    <segment id="26" parent="2" relname="span"> porém a geração &quot;WhatsApp&quot; está fazendo o vídeo bombar nas redes. </segment>
+    <segment id="9" parent="3" relname="span"> Um carregamento ilegal de madeira </segment>
+    <segment id="6" parent="9" relname="parenthetical">(de propriedade do senhor prefeito da cidade de Iaciara/GO)</segment>
+    <segment id="11" parent="4" relname="same-unit"> foi apreendido.</segment>
+    <segment id="8" parent="10" relname="sequence"> Ao saber da apreensão, o prefeito foi até o local onde o caminhão estava e o levou para casa. </segment>
+    <segment id="5" parent="10" relname="sequence">Ao tomar conhecimento, o Promotor Douglas Chegury foi à prefeitura &quot;bater um papinho&quot; com o chefe do executivo local.</segment>
+    <segment id="7" parent="10" relname="sequence"> Após um bate-boca, o prefeito foi preso em flagrante e algemado em praça pública, por desobediência.</segment>
+    <segment id="22" parent="14" relname="imperative"> Veja o que aconteceu.</segment>
+<group id="2" type="span" parent="1" relname="elaboration" />
+<group id="3" type="span" parent="4" relname="same-unit" />
+<group id="4" type="multinuc" parent="12" relname="elaboration" />
+<group id="10" type="multinuc" parent="13" relname="elaboration" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="15" relname="span" />
+<group id="15" type="span" />
+  </body>
+</rst>

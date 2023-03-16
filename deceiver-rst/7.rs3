@@ -1,0 +1,94 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="spatiality" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="26" relname="evaluation">Garotinho se supera no teatro ao chutar parede e fingir que foi lesionado na cadeia.</segment>
+    <segment id="4" parent="2" relname="attribution">
+
+O Globo noticiou que</segment>
+    <segment id="5" parent="11" relname="span"> a Secretaria de Administração Penitenciária </segment>
+    <segment id="6" parent="5" relname="parenthetical">(Seap)</segment>
+    <segment id="7" parent="33" relname="span"> informou à Vara de Execuções Penais</segment>
+    <segment id="8" parent="7" relname="parenthetical"> (VEP)</segment>
+    <segment id="9" parent="2" relname="same-unit"> do Rio que Anthony Garotinho se autolesionou dentro de sua cela na Cadeia Pública José Frederico Marques, em Benfica, na Zona Norte do Rio.</segment>
+    <segment id="13" parent="18" relname="attribution">
+
+O sujeitinho disse que</segment>
+    <segment id="12" parent="18" relname="span"> foi agredido durante a madrugada desta sexta-feira por uma pessoa</segment>
+    <segment id="16" parent="12" relname="elaboration"> que estava com um porrete.</segment>
+    <segment id="15" parent="21" relname="interjection">
+
+Bem,</segment>
+    <segment id="17" parent="21" relname="sequence"> esse é o mesmo que deu teatro na maca meses atrás, em sua outra prisão,</segment>
+    <segment id="40" parent="21" relname="sequence"> após a qual ele conseguiu liberdade.</segment>
+    <segment id="22" parent="45" relname="interjection">
+
+Bem,</segment>
+    <segment id="23" parent="24" relname="evaluation"> ele conseguiu se mostrar como o mais repugnante de todos os políticos presos</segment>
+    <segment id="24" parent="45" relname="span"> só com essas duas atitudes.</segment>
+    <segment id="44" parent="43" relname="evaluation">
+
+É uma figura assustadora em termos de fingimento.</segment>
+    <segment id="25" parent="39" relname="evaluation"> Psicopata é pouco pra descrever.</segment>
+<group id="45" type="span" parent="46" relname="span" />
+<group id="46" type="span" parent="20" relname="elaboration" />
+<group id="11" type="span" parent="3" relname="same-unit" />
+<group id="33" type="span" parent="3" relname="same-unit" />
+<group id="3" type="multinuc" parent="2" relname="same-unit" />
+<group id="2" type="multinuc" parent="10" relname="span" />
+<group id="10" type="span" parent="26" relname="span" />
+<group id="18" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="43" relname="span" />
+<group id="21" type="multinuc" parent="20" relname="span" />
+<group id="20" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="14" relname="evaluation" />
+<group id="43" type="span" parent="39" relname="span" />
+<group id="39" type="span" parent="19" relname="span" />
+<group id="19" type="span" parent="10" relname="elaboration" />
+<group id="26" type="span" parent="27" relname="span" />
+<group id="27" type="span" />
+  </body>
+</rst>

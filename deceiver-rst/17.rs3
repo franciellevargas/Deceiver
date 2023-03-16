@@ -1,0 +1,109 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="17" relname="attribution">Veja o trecho que Moro disse a Lula</segment>
+    <segment id="17" parent="18" relname="span"> que ele já está condenado.</segment>
+    <segment id="2" parent="19" relname="span"> O ex-presidente Luís Inácio Lula da Silva provocou o juiz federal Sergio Moro</segment>
+    <segment id="3" parent="2" relname="volitional-result"> e teve a resposta mais dura que poderia ouvir.</segment>
+    <segment id="4" parent="20" relname="span"> Moro disse a ele em alto e bom som</segment>
+    <segment id="5" parent="4" relname="justify"> porque ele já está condenado.</segment>
+    <segment id="6" parent="20" relname="elaboration">
+
+lavagem de dinheiro necessariamente ocorre a ocultação de patrimônio.</segment>
+    <segment id="7" parent="8" relname="concession"> oram 5 horas de depoimento</segment>
+    <segment id="8" parent="21" relname="span"> mas em menos de 1 minuto o recado foi dado como se pode notar</segment>
+    <segment id="10" parent="21" relname="circumstance"> neste momento da audiência.</segment>
+    <segment id="11" parent="54" relname="elaboration"> Cabe agora ao ex-presidente usar seus últimos momentos de liberdade.</segment>
+    <segment id="12" parent="24" relname="attribution"> Lula:</segment>
+    <segment id="13" parent="24" relname="sequence"> Dr. Moro, como um cidadão compra um apartamento que vale dez</segment>
+    <segment id="14" parent="24" relname="sequence"> e depois declarou no Imposto de Renda cinco anos seguidos</segment>
+    <segment id="15" parent="24" relname="sequence"> e depois aparece um apartamento que vale vinte sem nenhuma explicação?</segment>
+    <segment id="16" parent="29" relname="attribution">
+
+Moro:</segment>
+    <segment id="26" parent="30" relname="span"> Mas, senhor ex-presidente, a questão posta pelo Ministério Público na denúncia é evidentemente</segment>
+    <segment id="27" parent="43" relname="span"> que teria havido corrupção e lavagem,</segment>
+    <segment id="42" parent="27" relname="elaboration"> e lavagem de dinheiro necessariamente ocorre a ocultação de patrimônio</segment>
+    <segment id="31" parent="29" relname="span">
+
+Ou seja, a tese do não está no meu nome não é meu caiu por terra.</segment>
+    <segment id="32" parent="47" relname="joint"> O juiz Moro deixou claro que este argumento não será aceito</segment>
+    <segment id="33" parent="47" relname="joint"> e a tentativa de ocultação de patrimônio já foi criminalizada.</segment>
+    <segment id="34" parent="36" relname="sequence">
+
+A audiência de ontem foi o último momento do processo.</segment>
+    <segment id="37" parent="36" relname="sequence"> Agora cabe ao juiz Sergio Moro redigir e anunciar seu veredito.</segment>
+    <segment id="39" parent="38" relname="span"> Pelo que foi posto neste embate</segment>
+    <segment id="40" parent="39" relname="interpretation"> a liberdade de Lula está com os dias contados.</segment>
+<group id="18" type="span" parent="53" relname="span" />
+<group id="19" type="span" parent="18" relname="enablement" />
+<group id="20" type="span" parent="9" relname="span" />
+<group id="9" type="span" parent="23" relname="span" />
+<group id="21" type="span" parent="22" relname="span" />
+<group id="22" type="span" parent="9" relname="elaboration" />
+<group id="23" type="span" parent="53" relname="evidence" />
+<group id="24" type="multinuc" parent="25" relname="span" />
+<group id="25" type="span" parent="55" relname="evidence" />
+<group id="47" type="multinuc" parent="28" relname="elaboration" />
+<group id="53" type="span" parent="54" relname="span" />
+<group id="54" type="span" parent="55" relname="span" />
+<group id="55" type="span" parent="56" relname="span" />
+<group id="56" type="span" parent="50" relname="span" />
+<group id="30" type="span" parent="31" relname="conclusion" />
+<group id="29" type="span" parent="28" relname="span" />
+<group id="28" type="span" parent="41" relname="span" />
+<group id="41" type="span" parent="52" relname="span" />
+<group id="38" type="span" parent="36" relname="elaboration" />
+<group id="36" type="multinuc" parent="35" relname="span" />
+<group id="35" type="span" parent="41" relname="elaboration" />
+<group id="52" type="span" parent="56" relname="elaboration" />
+<group id="50" type="span" />
+<group id="43" type="span" parent="26" relname="elaboration" />
+  </body>
+</rst>

@@ -1,0 +1,108 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="spaciality" type="rst" />
+      <rel name="temporal" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="localization" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="9" relname="span">Joesley chorou ao entrar na cela e está sem comer e tomar banho.</segment>
+    <segment id="4" parent="6" relname="purpose"> O delator Joesley Batista chorou no momento em que os agentes abriram a cela da carceragem da superintendência da Polícia Federal em São Paulo</segment>
+    <segment id="6" parent="2" relname="span"> para que ele entrasse após se entregar na tarde deste domingo.</segment>
+    <segment id="7" parent="14" relname="span">
+
+Ao ouvir o barulho da grade fechando</segment>
+    <segment id="3" parent="7" relname="nonvolitional-cause"> ele começou a chorar compulsivamente e a tremer.</segment>
+    <segment id="15" parent="16" relname="concession"> Seus colegas de cela tentaram o consolar</segment>
+    <segment id="16" parent="8" relname="span"> mas ele teve uma crise nervosa e precisou ser medicado.</segment>
+    <segment id="18" parent="31" relname="span"> Optou por não tomar banho</segment>
+    <segment id="23" parent="18" relname="parenthetical"> (frio)</segment>
+    <segment id="24" parent="32" relname="span"> nem se alimentar </segment>
+    <segment id="25" parent="24" relname="parenthetical">(marmita).</segment>
+    <segment id="26" parent="33" relname="attribution"> O carcereiro chegou a brincar com ele dizendo</segment>
+    <segment id="27" parent="28" relname="concession"> que o bife era de confiança, que era Friboi,</segment>
+    <segment id="28" parent="33" relname="span"> mas ele sequer levantou a cabeça.</segment>
+    <segment id="29" parent="34" relname="attribution">
+
+A Coluna apurou</segment>
+    <segment id="34" parent="40" relname="span"> que Joesley e o executivo da JBS Ricardo Saud devem ser transferidos para Brasília na segunda-feira, 10, em aeronave da Polícia Federal.</segment>
+    <segment id="36" parent="49" relname="span">
+
+Os dois foram presos por determinação do ministro Edson Fachin, do Supremo,</segment>
+    <segment id="45" parent="36" relname="volitional-result"> atendendo a pedido do procurador-geral da República, Rodrigo Janot.</segment>
+    <segment id="46" parent="50" relname="span"> Eles são acusados de omitir informações</segment>
+    <segment id="47" parent="46" relname="elaboration"> no acordo de delação premiada.</segment>
+    <segment id="44" parent="51" relname="span">
+
+A prisão é temporária,</segment>
+    <segment id="48" parent="44" relname="elaboration"> com prazo de cinco dias prorrogáveis por mais cinco.</segment>
+<group id="33" type="span" parent="42" relname="span" />
+<group id="42" type="span" parent="37" relname="span" />
+<group id="49" type="span" parent="59" relname="span" />
+<group id="50" type="span" parent="49" relname="evidence" />
+<group id="51" type="span" parent="59" relname="elaboration" />
+<group id="59" type="span" parent="60" relname="span" />
+<group id="60" type="span" parent="40" relname="elaboration" />
+<group id="14" type="span" parent="9" relname="elaboration" />
+<group id="32" type="span" parent="5" relname="same-unit" />
+<group id="31" type="span" parent="5" relname="same-unit" />
+<group id="32" type="span" parent="5" relname="same-unit" />
+<group id="2" type="span" parent="1" relname="elaboration" />
+<group id="5" type="multinuc" parent="8" relname="elaboration" />
+<group id="8" type="span" parent="11" relname="span" />
+<group id="40" type="span" parent="35" relname="span" />
+<group id="35" type="span" parent="42" relname="elaboration" />
+<group id="37" type="span" parent="12" relname="elaboration" />
+<group id="9" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="12" relname="span" />
+<group id="11" type="span" parent="10" relname="elaboration" />
+<group id="12" type="span" parent="13" relname="span" />
+<group id="13" type="span" />
+  </body>
+</rst>

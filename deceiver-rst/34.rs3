@@ -1,0 +1,76 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="hashtag" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="attribution">Delegado da PF manda recado para Lula:</segment>
+    <segment id="2" parent="6" relname="span"> &quot;O seu dia vai chegar&quot;. </segment>
+    <segment id="3" parent="6" relname="evaluation"> É de gente assim que o Brasil precisa!</segment>
+    <segment id="5" parent="8" relname="evaluation"> São pessoas como o Dr. Itagiba que fortalecem as instituições do país. </segment>
+    <segment id="20" parent="9" relname="joint"> &quot;Meu nome é Marcelo Itagiba, sou delegado de Polícia Federal</segment>
+    <segment id="28" parent="9" relname="joint"> e venho aqui repudiar as palavras chulas e grosseiras proferidas pelo ex-presidente Lula.&quot;</segment>
+    <segment id="13" parent="17" relname="span"> &quot;A Polícia Federal é uma polícia de estado e não uma polícia de governo </segment>
+    <segment id="15" parent="13" relname="parenthetical">[...]</segment>
+    <segment id="16" parent="17" relname="volitional-cause"> já investigou vários presidentes da República e alguns foram indiciados.&quot;</segment>
+    <segment id="18" parent="14" relname="elaboration"> &quot;Presidente Lula, o seu dia vai chegar&quot;</segment>
+    <segment id="19" parent="7" relname="attribution"> finalizou.</segment>
+<group id="6" type="span" parent="8" relname="span" />
+<group id="8" type="span" parent="11" relname="span" />
+<group id="17" type="span" parent="14" relname="span" />
+<group id="14" type="span" parent="4" relname="span" />
+<group id="9" type="multinuc" parent="7" relname="span" />
+<group id="4" type="span" parent="9" relname="elaboration" />
+<group id="7" type="span" parent="10" relname="span" />
+<group id="10" type="span" parent="11" relname="elaboration" />
+<group id="11" type="span" parent="12" relname="span" />
+<group id="12" type="span" />
+  </body>
+</rst>

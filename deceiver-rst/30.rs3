@@ -1,0 +1,87 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="condition" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="enablement" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="interpretation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="means" type="rst" />
+      <rel name="motivation" type="rst" />
+      <rel name="nonvolitional-cause" type="rst" />
+      <rel name="nonvolitional-result" type="rst" />
+      <rel name="otherwise" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="unconditional" type="rst" />
+      <rel name="unless" type="rst" />
+      <rel name="unstated-relation" type="rst" />
+      <rel name="volitional-cause" type="rst" />
+      <rel name="volitional-result" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="attribution" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="conclusion" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="explanation" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="parenthetical" type="rst" />
+      <rel name="imperative" type="rst" />
+      <rel name="rst" type="rst" />
+      <rel name="interjection" type="rst" />
+      <rel name="emphasization" type="rst" />
+      <rel name="" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="disjunction" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+      <rel name="list" type="multinuc" />
+      <rel name="restatement-mn" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="same-unit" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">2x0:</segment>
+    <segment id="2" parent="3" relname="span"> Mais um desembargador vota pela condenação de Lula e pede a prisão do réu. </segment>
+    <segment id="4" parent="3" relname="elaboration"> O desembargador Leandro Paulsen acompanhou o voto do relator. </segment>
+    <segment id="5" parent="7" relname="joint"> O magistrado seguiu integralmente o voto de Gebran Neto</segment>
+    <segment id="6" parent="8" relname="conclusion"> e ainda se manifestou favorável pela execução imediata da pena após o término dos recursos na 2a instância,</segment>
+    <segment id="8" parent="17" relname="span"> ou seja, a prisão do condenado.</segment>
+    <segment id="9" parent="12" relname="span"> &quot;Luiz Inácio Lula da Silva: 12 anos e 1 mês de reclusão, em regime inicialmente fechado,</segment>
+    <segment id="13" parent="9" relname="elaboration"> e 280 dias-multa, à razão unitária de 5 salários mín. vigentes ao tempo do último fato criminoso&quot;.</segment>
+    <segment id="22" parent="24" relname="list"> Está proibida a emissão de passaportes diplomático</segment>
+    <segment id="11" parent="24" relname="list"> e proibida a saída de políticos</segment>
+    <segment id="23" parent="24" relname="list"> e cidadanias de qualquer pessoa política do país.</segment>
+    <segment id="14" parent="24" relname="evaluation"> Vocês entenderam ou quer que eu desenhe?</segment>
+    <segment id="15" parent="28" relname="span"> Então se vocês não entenderam vai lá na DOU,</segment>
+    <segment id="26" parent="15" relname="elaboration"> que é o Diário Oficial da União, e lê o decreto.</segment>
+    <segment id="27" parent="30" relname="span"> Trezentas pessoas transferidas para desembargador, Itamaraty e embaixadas.</segment>
+    <segment id="18" parent="27" relname="elaboration"> Nenhum político pode deixar o país.</segment>
+    <segment id="19"> Nenhum político, nenhum visto vai poder ser dado.</segment>
+    <segment id="20"> Nenhuma cidadania pode ser dada.</segment>
+<group id="3" type="span" parent="16" relname="span" />
+<group id="7" type="multinuc" parent="16" relname="elaboration" />
+<group id="17" type="span" parent="7" relname="joint" />
+<group id="16" type="span" parent="21" relname="span" />
+<group id="21" type="span" parent="10" relname="span" />
+<group id="12" type="span" parent="21" relname="elaboration" />
+<group id="10" type="span" parent="32" relname="span" />
+<group id="24" type="multinuc" parent="25" relname="span" />
+<group id="25" type="span" parent="29" relname="span" />
+<group id="28" type="span" parent="25" relname="elaboration" />
+<group id="29" type="span" parent="31" relname="span" />
+<group id="30" type="span" parent="29" relname="elaboration" />
+<group id="31" type="span" parent="10" relname="elaboration" />
+<group id="32" type="span" />
+  </body>
+</rst>
