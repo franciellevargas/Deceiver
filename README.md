@@ -6,8 +6,11 @@
 <h2 align="center"> Multilingual Discourse-Annotated Corpus for Fake News Detection </h2>  
 
 
-<h2 align="left"> ACKNOWLEDGEMENTS </h2>
+<h2 align="left"> FUNDING </h2>
 
-<p align="justify"> This work is funded by SINCH Brasil, Fapemig, Fapesp and CNPq. 
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/sinch.png?raw=true)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c6044026c8617de939f562c83e1e45c19ca8c89/.github/cnpq.png)
+
   
 </p>
