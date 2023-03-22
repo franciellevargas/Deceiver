@@ -1,4 +1,4 @@
-<h2 align="center"> Multilingual Discourse-Annotated Corpus for Fake News Detection </h2>  
+<h2 align="center"> Multilingual Discourse-Annotated Dataset for Fake News Detection </h2>  
 
 
 <h2 align="left"> FUNDING </h2>
