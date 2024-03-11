@@ -1,5 +1,5 @@
 
-<h2 align="center"> Discourse-Annotated Dataset for Multilingual Fake News Detection </h2>  
+<h2 align="center"> RST-Annotated Dataset for Multilingual Fake News Detection </h2>  
 
 
 <h2 align="left"> FUNDING </h2>
