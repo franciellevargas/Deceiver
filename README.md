@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/500880569.svg)](https://zenodo.org/doi/10.5281/zenodo.10804456)
+</b>
 
 <h2 align="center"> RST-Annotated Dataset for Multilingual Fake News Detection </h2>  
 </br>
